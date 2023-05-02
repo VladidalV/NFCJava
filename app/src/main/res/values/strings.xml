@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NFCJava</string>
+    <string name="not_available">NFC не поддерживается на этом устройстве</string>
+    <string name="nfc_turn_off">NFC выключено</string>
+    <string name="maybe_turn_on">Хотите его включить?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
